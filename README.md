@@ -1,5 +1,7 @@
 # nhl-api
 
+![CI](https://github.com/LeSingh1/nhl-api/actions/workflows/test.yml/badge.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) ![node](https://img.shields.io/badge/node-%E2%89%A518-brightgreen.svg) ![dependencies](https://img.shields.io/badge/dependencies-0-success.svg)
+
 Unofficial Node client for ESPN's NHL data. ESPN serves NHL under
 `hockey/nhl`, and this wraps those endpoints with retry/timeout
 transport and parsers that return clean data.
