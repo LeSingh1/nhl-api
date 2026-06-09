@@ -1,0 +1,29 @@
+{
+  "sport": "hockey",
+  "league": "nhl",
+  "date": "20260609",
+  "count": 1,
+  "games": [
+    {
+      "id": "401874174",
+      "name": "Carolina Hurricanes at Vegas Golden Knights",
+      "shortName": "CAR @ VGK",
+      "date": "2026-06-10T00:00Z",
+      "state": "pre",
+      "status": "6/9 - 8:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "37",
+        "abbr": "VGK",
+        "name": "Vegas Golden Knights",
+        "score": "0"
+      },
+      "away": {
+        "id": "7",
+        "abbr": "CAR",
+        "name": "Carolina Hurricanes",
+        "score": "0"
+      }
+    }
+  ]
+}
