@@ -1,27 +1,27 @@
 {
   "sport": "hockey",
   "league": "nhl",
-  "date": "20260611",
+  "date": "20260614",
   "count": 1,
   "games": [
     {
-      "id": "401874175",
-      "name": "Vegas Golden Knights at Carolina Hurricanes",
-      "shortName": "VGK @ CAR",
-      "date": "2026-06-12T00:00Z",
+      "id": "401874176",
+      "name": "Carolina Hurricanes at Vegas Golden Knights",
+      "shortName": "CAR @ VGK",
+      "date": "2026-06-15T00:00Z",
       "state": "pre",
-      "status": "6/11 - 8:00 PM EDT",
+      "status": "6/14 - 8:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "7",
-        "abbr": "CAR",
-        "name": "Carolina Hurricanes",
-        "score": "0"
-      },
-      "away": {
         "id": "37",
         "abbr": "VGK",
         "name": "Vegas Golden Knights",
+        "score": "0"
+      },
+      "away": {
+        "id": "7",
+        "abbr": "CAR",
+        "name": "Carolina Hurricanes",
         "score": "0"
       }
     }
